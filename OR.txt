@@ -1,0 +1,10 @@
+lana
+roger
+uuid
+red
+green
+yellow
+blue
+moscow
+boston
+samara
